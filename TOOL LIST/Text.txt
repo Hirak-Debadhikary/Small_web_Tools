@@ -1,0 +1,94 @@
+                                                                        TOOL LISTFREE TOOL LIST
+
+                                                                        
+Write a complete responsive code of RGB to HEX Converter With Color Picker in HTML with JS
+
+Write a complete responsive code of Case Converter in HTML with JS
+
+Write a complete responsive code of JPG to PNG Converter in HTML with JS
+
+Write a complete responsive code of PNG to JPG Converter in HTML with JS
+
+Write a complete responsive code of WebP to JPEG in HTML with JS
+
+Write a complete responsive code of Calculator in HTML with JS
+
+Write a complete responsive code of Color Converter (HEX, RGB, HSL) in HTML with JS
+
+Write a complete responsive code of Disclaimer Generator in HTML with JS
+
+Write a complete responsive code of Terms & Conditions Generator in HTML with JS
+
+Write a complete responsive code of Privacy Policy Generator in HTML with JS
+
+Write a complete responsive code of Text to PDF Generator in HTML with JS
+
+Write a complete responsive code of Online Photo Editor in HTML with JS
+
+Write a complete responsive code of URL to Image in HTML with JS
+
+Write a complete responsive code of Countdown Timer in HTML with JS
+
+Write a complete responsive code of Stopwatch in HTML with JS
+
+Write a complete responsive code of Time Calculator in HTML with JS
+
+Write a complete responsive code of QR Code Generator in HTML with JS
+
+Write a complete code of Country Code Founder in HTML with JS
+
+Write a complete responsive code of Duplicate Sentence Checker or Remover in HTML with JS
+
+Write a complete responsive code of Byte Converter in HTML with JS
+
+Write a complete responsive code of Lorum Text Generator in HTML with JS
+
+Write a complete responsive code of Bank IFSC Code Checker in HTML with JS
+
+Write a complete responsive code of Word & Character Counter in HTML with JS
+
+Write a complete responsive code of Strong Password Generator in HTML with JS
+
+Write a complete responsive code of Age Calculator in HTML with JS
+
+Write a complete responsive code of Text to Slug in HTML with JS
+
+Write a complete responsive code of Random Word Generator in HTML with JS
+
+Write a complete responsive code of Break Line Removal in HTML with JS
+
+Write a complete responsive code of Sales Tax Calculator in HTML with JS
+
+Write a complete responsive code of Loan Calculator in HTML with JS
+
+Write a complete responsive code of GST Calculator in HTML with JS
+
+Write a complete responsive code of Currency Converter in HTML with JS
+
+Write a complete responsive code of Margin Calculator in HTML with JS
+
+Write a complete responsive code of Compound Annual Growth rate calculator in HTML with JS
+
+Write a complete responsive code of Dividend Calculator in HTML with JS
+
+Write a complete responsive code of Equity Calculator in HTML with JS
+
+Write a complete responsive code of Discounted Cash Flow Calculator in HTML with JS
+
+Write a complete responsive code of Paypal Fee Calculator in HTML with JS
+
+Write a complete responsive code of Number to Roman Converter in HTML with JS
+
+Write a complete responsive code of HEX to RGB Converter With Color Picker in HTML with JS
+
+Write a complete responsive code of Text to Binary Converter in HTML with JS
+
+Write a complete responsive code of CSV to JSON Converter in HTML with JS
+
+Write a complete responsive code of IP Lookup in HTML with JS
+
+Write a complete responsive code of Domain IP Checker in HTML with JS
+
+Write a complete responsive code of Duplicate Word Checker in HTML with JS
+
+Write a complete responsive code of Microphone Test in HTML with JS
